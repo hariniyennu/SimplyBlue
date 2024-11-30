@@ -1,0 +1,1 @@
+This code isolates the blue color in real-time video from a webcam. The filtered frame, highlighting only blue regions, is displayed in a window. This is useful for tasks like color-based object detection or tracking.
